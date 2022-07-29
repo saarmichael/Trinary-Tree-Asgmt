@@ -1,5 +1,5 @@
 # Trinary-Tree-Asgmt
-Assinment practicing tree data-structure, generic coding and modularity.
+Assignment practicing tree data-structure, generic coding and modularity.
 
 SUMMARY:
 This program demonstrates a tracking on meetings and interactions among a family, and knowing who needs to be quarantined if someone was found positive to COVID-19.
